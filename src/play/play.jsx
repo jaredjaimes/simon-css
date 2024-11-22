@@ -31,6 +31,8 @@
 //     );
 // }
 
+import React from 'react';
+
 import { Players } from './players';
 import { SimonGame } from './simonGame';
 
